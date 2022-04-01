@@ -1,9 +1,9 @@
+# Twilio Sample App Template DPRO'S PLAYGROUND
+
 <a  href="https://www.twilio.com">
 <img  src="https://static0.twilio.com/marketing/bundles/marketing/img/logos/wordmark-red.svg"  alt="Twilio"  width="250"  />
 </a>
  
-# Twilio Sample App Template
-
 [![Actions Status](https://github.com/twilio-labs/sample-template-nodejs/workflows/Node%20CI/badge.svg)](https://github.com/twilio-labs/sample-appointment-reminders/actions)
 
 ## About
